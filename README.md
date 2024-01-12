@@ -12,3 +12,6 @@ data = 'C:/Folder Arya/Study/BAU Doc/Fall SMT/Artificial İntelligence/Term Proj
 df = pd.read_csv(data, header=None, sep=',\s')
 
 change into specific location of data set that has been obtained. then it can run well 
+
+
+the dataset links : https://www.kaggle.com/datasets/garymk/movielens-25m-dataset
